@@ -4,22 +4,7 @@ This repository contains the modeling, simulation, and control analysis of a non
 
 Access the Full Project Report here:
 
-PID Control of a Nonlinear Liquid Tank System - Detailed Report
-
-Key Engineering Specifications
-
-Mathematical Model: The system is governed by the nonlinear differential equation A 
-dt
-dH
-​
- =Q 
-in
-​
- −C 
-H
-
-​
- , where the outlet flow depends on the square root of the level.
+[PID Control of a Nonlinear Liquid Tank System - Detailed Report](https://drive.google.com/file/d/18pX8bqje8yVKpdS-xourUSWCCcImDVih/view?usp=drive_link)
 
 
 Control Strategy: A parallel PID control law is used: u(t)=K 
