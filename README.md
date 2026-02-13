@@ -6,3 +6,7 @@ Access the Full Project Report here:
 
 [PID Control of a Nonlinear Liquid Tank System - Detailed Report](https://drive.google.com/file/d/18pX8bqje8yVKpdS-xourUSWCCcImDVih/view?usp=drive_link)
 
+The simulink file link has been given here: 
+
+[PID_Controller_project_simulink](https://drive.google.com/file/d/1r1d9_VyUXJxS5HJM-EU9lSieSxJsDV6c/view?usp=sharing).
+
